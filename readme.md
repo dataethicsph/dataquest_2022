@@ -10,7 +10,7 @@ Dataquest is open to everyone interested in creating data-driven solutions to so
 
 ## About this Repository
 
-This repository contains the (1) fully functional code used for the analytics and/or prototype/application development, (2) detailed description of the solution, (3) link to the demo site (if applicable), (4) pitch deck, and (5) actual output / solution of the teams who qualified for the final round.  The subfolders are labeled with the qualifying teams' names.
+This repository contains the (1) fully functional code used for the analytics and/or prototype/application development, (2) detailed description of the solution, (3) link to the demo site (if applicable), (4) pitch deck, and (5) actual output / solution of the teams who qualified for the final round of the hackathon.  The subfolders are labeled with the qualifying teams' names.
 
 
 
